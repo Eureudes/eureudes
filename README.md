@@ -3,7 +3,7 @@
 Full-Stack Web Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/@eureudes-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eureudes)](https://twitter.com/eureudes) 
-[![Linkedin Badge](https://img.shields.io/badge/eureudes-rodrigues-85a34a1a8/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eureudes/)](https://www.linkedin.com/in/eureudes/) 
+[![Linkedin Badge](https://img.shields.io/badge/eureudes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eureudes-rodrigues-85a34a1a8/)](https://www.linkedin.com/in/eureudes-rodrigues-85a34a1a8/) 
 [![Gmail Badge](https://img.shields.io/badge/eureudes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eureudes@gmail.com)](mailto:eureudes@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
