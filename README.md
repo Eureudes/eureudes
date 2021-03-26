@@ -1,6 +1,6 @@
 # Eureudes Rodrigues 
 
-Full-Stack Web Developer.
+NodeJs back-end Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/@eureudes-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eureudes)](https://twitter.com/eureudes) 
 [![Linkedin Badge](https://img.shields.io/badge/eureudes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eureudes-rodrigues-85a34a1a8/)](https://www.linkedin.com/in/eureudes-rodrigues-85a34a1a8/) 
